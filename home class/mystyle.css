@@ -1,0 +1,37 @@
+body{
+	background-color: darkblue;
+	font-family:Arial;
+	padding: 20px;
+}
+#myh{
+	text-align:center;
+	color:yellow;
+}
+h1{
+	color:yellow;
+}
+h3{
+	color:white;
+	
+}
+ul{
+	color:yellow;
+	font-size:20px;
+}
+#myh3{
+     font-family:Verdana; 
+	 font-size:300%; 
+	 color:lightblue;
+}
+ol{
+	color:white;
+	font-size:20px;
+}
+p{
+	color:yellow;
+}
+img{
+	width:300;
+	height:300;
+	border:3px solid yellow;
+}

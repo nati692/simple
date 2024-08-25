@@ -1,0 +1,19 @@
+body{
+	background-color:darkblue;
+}
+h1{color:yellow;
+}
+h2{color:white;
+}
+ul{color:yellow;}
+p{color:yellow;}
+ol{color:yellow;}
+h3{color:white;}
+img{
+	width:400;
+	height: 400;
+border:2px solid yellow;
+}
+video{width:400;
+height:400;
+border:2px solid yellow}
